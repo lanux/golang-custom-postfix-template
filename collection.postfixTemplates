@@ -1,4 +1,4 @@
 .ifok : if-ok
     MAP     →  if key,ok := ($expr$); ok {
-                 $end$
+                    $end$
                 }
